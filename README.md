@@ -1,4 +1,4 @@
-# Expense Tracker
+# Transaction Manager
 
 A new Flutter project.
 
