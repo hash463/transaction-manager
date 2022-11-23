@@ -1,16 +1,7 @@
-# Transaction Manager
+# Expense Tracker
 
-A new Flutter project.
+Hello everyone!
+Myself Harish Jayaprakash, back again for sharing my project transaction-manager created using flutter. It is integrated with Google Sheets. I have herewith attached the code for Expense Tracker. If you wish to download and run the app, you have to integrate it with your own customized google sheet which can be edited in the "gogle_sheets_api.dart" file. All you need to do is enter your Google Sheets API key and Voila!! There you go.  
+Hope you like this design. Thanks for visiting my repository. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Happy Learning 😁✌️
